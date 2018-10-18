@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "TileSet", menuName = "Collections")]
+[CreateAssetMenu(fileName = "TileSet", menuName = "TileSet")]
 public class TileSet : ScriptableObject, ISerializationCallbackReceiver
 {
     
